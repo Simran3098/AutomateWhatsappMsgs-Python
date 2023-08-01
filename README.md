@@ -9,4 +9,5 @@ Steps to follow:
 5. Result: The test message is sent to the contact
 
 Python download link: https://www.python.org/downloads/
-Python IDE download link: https://www.jetbrains.com/pycharm/download/?section=windows
+
+Python IDE(PyCharm) download link: https://www.jetbrains.com/pycharm/download/?section=windows
