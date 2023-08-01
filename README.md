@@ -6,4 +6,7 @@ Steps to follow:
 2. Setup the environmental path of Python after installation
 3. Create new project, then open terminal and install pywhatkit using command -> pip install pywhatkit
 4. once pip is installed follow the code to *send whatsapp message to a contact* added in repository
-5. Result: The test message is sent to the contact 
+5. Result: The test message is sent to the contact
+
+Python download link: https://www.python.org/downloads/
+Python IDE download link: https://www.jetbrains.com/pycharm/download/?section=windows
